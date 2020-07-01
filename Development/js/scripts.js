@@ -1,5 +1,5 @@
 let instructor = {
-  name: "Menawer",
+ name: "Menawer",
   courses: ["JavaScript", "React", "PHP"],
   githubAccount: {
     username: "careless10",
